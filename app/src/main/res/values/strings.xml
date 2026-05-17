@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CounterAplication</string>
+    <string name="button_inc">Zwiększ\n</string>
+    <string name="button_dec">Zmniejsz</string>
+    <string name="button_zero">Wyzeruj</string>
+    <string name="edit_number">Wprowadź wartość</string>
+    <string name="button_send">Ustaw wartość</string>
+</resources>
